@@ -9,6 +9,7 @@
 |   [박상은](https://github.com/1-blue)    |      |     |
 |   [박설화](https://github.com/iberis2)   |      |     |
 |  [박윤환](https://github.com/yunhwan98)  |      |     |
+|  [이유현](https://github.com/U-Hyun-98)  |      |     |
 |  [하종승](https://github.com/hajongon)   |      |     |
 |  [한수지](https://github.com/nincoding)  |      |     |
 | [허상범](https://github.com/sangbeomheo) |      |     |
