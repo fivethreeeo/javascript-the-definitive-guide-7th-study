@@ -6,12 +6,12 @@
 
 |                   이름                   | 출석 | 🟨  |
 | :--------------------------------------: | :--: | :-: |
-|   [박상은](https://github.com/1-blue)    |  1   |     |
-|   [박설화](https://github.com/iberis2)   |  1   |     |
-|  [박윤환](https://github.com/yunhwan98)  |  1   |     |
-|  [하종승](https://github.com/hajongon)   |  1   |     |
-|  [한수지](https://github.com/nincoding)  |  1   |     |
-| [허상범](https://github.com/sangbeomheo) |  1   |     |
+|   [박상은](https://github.com/1-blue)    | 100% |     |
+|   [박설화](https://github.com/iberis2)   | 100% |     |
+|  [박윤환](https://github.com/yunhwan98)  | 100% |     |
+|  [하종승](https://github.com/hajongon)   | 100% |     |
+|  [한수지](https://github.com/nincoding)  | 100% |     |
+| [허상범](https://github.com/sangbeomheo) | 100% |     |
 
 <br>
 
