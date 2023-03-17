@@ -1,5 +1,8 @@
 # 자바스크립트 완벽 가이드 7판 스터디
 
+> 스터디 완료
+> 기간: 2022-12-27 to 2023-03-14
+
 ## 스터디 소개
 
 자바스크립트를 깊게 학습하기 위해 만든 스터디입니다.  
@@ -35,8 +38,8 @@
 |  8   | 23-02-14 (화) 19:30 [챕터10](/%5Bch_10%5D%20%EB%AA%A8%EB%93%88/) [챕터12](/%5Bch_12%5D%20%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0%EC%99%80%20%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0/) | 10, 12 | 윤환 제외 5명 | 종승, 상은 |      |
 |  9   |                [23-02-21 (화) 19:30](/%5Bch_11%5D%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%91%9C%EC%A4%80%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/)                 |   11   |      All      |    수지    |      |
 |  10  |                                    [23-02-28 (화) 19:30](/%5Bch_13%5D%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/)                                    |   13   |      All      |    윤환    |      |
-|  11  |                                              [23-02-28 (화) 19:30](/%5Bch_14%5D%20%EB%A9%94%ED%83%80%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/)                                               |   14   |      All      |    상범    |      |
-|  12  |                                              [23-02-28 (화) 19:30](/%5Bch_14%5D%20%EB%A9%94%ED%83%80%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/)                                               |   17   |      All      |    상은    |      |
+|  11  |                                              [23-03-07 (화) 19:30](/%5Bch_14%5D%20%EB%A9%94%ED%83%80%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/)                                               |   14   |      All      |    상범    |      |
+|  12  |                                              [23-03-14 (화) 19:30](/%5Bch_14%5D%20%EB%A9%94%ED%83%80%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/)                                               |   17   |      All      |    상은    |      |
 
 <br>
 
@@ -56,29 +59,6 @@
     - 학습 공유 안함 ⇒ 1장
     - 스터디 무단 불참 ⇒ 1장
   - 학습 정리 자료 업로드는 스터디 전날 밤 11:59 까지
-
-<br>
-
-## 🗂 스터디 참여 방법 (학습 내용 업로드)
-
-> 해당 챕터에 `이름: 챕터 3` 형식의 마크다운 문서 올리기
-
-### GitHub 페이지에서 하는 방법
-
-1. 해당 챕터 클릭  
-   ![screenshot_1](https://user-images.githubusercontent.com/41741221/208923974-72ac2a8c-0388-40b1-ae62-1919fcced04c.jpg)
-
-2. Add file => `Create new file` 클릭  
-   ![screenshot_2](https://user-images.githubusercontent.com/41741221/208923977-7f8eafdd-ee9e-4b9f-be87-947a3c95fa72.jpg)
-
-3. 파일명 입력 => `${이름}.md` / 내용 작성 => `마크다운 문서` or `블로그/노션 링크` 입력  
-   ![screenshot_3](https://user-images.githubusercontent.com/41741221/208923979-401ab059-8ca5-40a5-92e9-1b0f519c0a53.jpg)
-
-4. 커밋 메시지 입력 => `${이름}: 챕터 ${챕터숫자}`  
-   ![screenshot_4](https://user-images.githubusercontent.com/41741221/208925395-4b47e527-42d7-4a7c-9449-fd3bfdffac20.jpg)
-
-5. 업로드 완료  
-   ![screenshot_5](https://user-images.githubusercontent.com/41741221/208925950-38510c3c-763a-4af0-8b5b-cf0c14e564e9.jpg)
 
 <br>
 
